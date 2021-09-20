@@ -1,7 +1,6 @@
 # django API
 ## Cross-Platform connectivity status API
 
-*---------------------------------------------*
 *Project Phases*
 
 * Project Initialization
